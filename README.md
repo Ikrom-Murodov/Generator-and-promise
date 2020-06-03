@@ -1,0 +1,1 @@
+# Асинхронные generator + promise

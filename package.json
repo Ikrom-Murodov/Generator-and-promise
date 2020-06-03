@@ -1,0 +1,11 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Ikrom Murodov",
+    "email": "ikrommurodov2001@gmail.com",
+    "url": "https://github.com/Ikrom-Murodov"
+  }
+}
